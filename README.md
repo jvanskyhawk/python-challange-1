@@ -1,2 +1,2 @@
 # python-challange-1
-bingus
+bingus 2
